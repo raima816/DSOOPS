@@ -1,6 +1,6 @@
-package com.raima.week10_L39
+package com.raima.week10_L39;
 import java.util.Scanner;
-public class pyramidPattern {
+public class ques4{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();

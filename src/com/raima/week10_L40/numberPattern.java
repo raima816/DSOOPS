@@ -1,4 +1,4 @@
-package com.raima.week10_L40
+package com.raima.week10_L40;
 public class numberPattern {
     public static void main(String[] args) {
         int n=4;

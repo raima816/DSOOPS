@@ -1,7 +1,7 @@
-package com.raima.week10_L39
+package com.raima.week10_L39;
 import java.util.Scanner;
 
-public class starrRectangle {
+public class Ques3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

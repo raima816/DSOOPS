@@ -1,5 +1,5 @@
-package com.raima.week10_L39
-public class HighLowUsingWhile {
+package com.raima.week10_L39;
+public class Ques2 {
     public static void main(String[] args) {
         int num = 1;
 

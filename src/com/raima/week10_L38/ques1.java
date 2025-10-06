@@ -1,5 +1,5 @@
-package com.raima.week10_L38
-public class EvenOdd {
+package com.raima.week10_L38;
+public class ques1 {
     public static void main(String[] args) {
         int a=5;
         if(a%2==0){

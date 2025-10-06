@@ -1,7 +1,7 @@
-package com.raima.week10_L38
+package com.raima.week10_L38;
 import java.util.Scanner;
 
-public class marks_ifElse {
+public class Acticvity_marks_ifElse {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

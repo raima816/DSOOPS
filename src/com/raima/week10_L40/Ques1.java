@@ -1,5 +1,5 @@
-package com.raima.week10_L40
-public class square3x3 {
+package com.raima.week10_L40;
+public class Ques1 {
     public static void main(String[] args) {
 
         int n=3;
